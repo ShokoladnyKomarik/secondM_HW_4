@@ -23,8 +23,8 @@ function charCount(str, char) {
     return count;
 }
 
-console.log(charCount("Abrakadabra", "a")); // 5
-console.log(charCount("hello", "z"));       // 0
+console.log(charCount("Abrakadabra", "a"));
+console.log(charCount("hello", "z"));
 
 
 function hidePhone(phoneNumber) {
